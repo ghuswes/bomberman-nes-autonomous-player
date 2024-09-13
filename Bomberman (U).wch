@@ -1,0 +1,102 @@
+
+100
+00000	0000	S	S	0	Informações Relevantes
+00001	0058	b	u	0	Stage
+00002	0093	b	u	0	Time
+00003	009C	b	s	0	Enemies Remaining
+00004	009E	b	s	0	Enemies Defeated
+00005	0700	b	u	0	Start button pressioned? (25-248)
+00006	0068	b	s	0	Life Left
+00007	0060	b	s	0	Stage Start Up
+00008	0000	S	S	0	Player
+00009	0028	b	u	0	Player Coord X
+0000A	002A	b	u	0	Player Coord Y
+0000B	0073	b	s	0	Bomb Power (x16)
+0000C	0074	b	u	0	Bomb Qtd
+0000D	0075	b	s	0	Speed
+0000E	0076	b	s	0	WallsPassing
+0000F	0077	b	s	0	Detonator
+00010	0078	b	s	0	BombPassing
+00011	0079	b	s	0	FireProof
+00012	0000	S	S	0	Enemy 1
+00013	0576	b	s	0	Enemy Type
+00014	0580	b	u	0	Enemy Coord X
+00015	0594	b	u	0	Enemy Coord Y
+00016	0000	S	S	0	Enemy 2
+00017	0577	b	s	0	Enemy Type
+00018	0581	b	u	0	Enemy Coord X
+00019	0595	b	u	0	Enemy Coord Y
+0001A	0000	S	S	0	Enemy 3
+0001B	0578	b	s	0	Enemy Type
+0001C	0582	b	u	0	Enemy Coord X
+0001D	0596	b	u	0	Enemy Coord Y
+0001E	0000	S	S	0	Enemy 4
+0001F	0579	b	s	0	Enemy Type
+00020	0583	b	u	0	Enemy Coord X
+00021	0597	b	u	0	Enemy Coord Y
+00022	0000	S	S	0	Enemy 5
+00023	057A	b	s	0	Enemy Type
+00024	0584	b	u	0	Enemy Coord X
+00025	0598	b	u	0	Enemy Coord Y
+00026	0000	S	S	0	Enemy 6
+00027	057B	b	s	0	Enemy Type
+00028	0585	b	u	0	Enemy Coord X
+00029	0599	b	u	0	Enemy Coord Y
+0002A	0000	S	S	0	Enemy 7
+0002B	057C	b	s	0	Enemy Type
+0002C	0586	b	u	0	Enemy Coord X
+0002D	059A	b	u	0	Enemy Coord Y
+0002E	0000	S	S	0	Enemy 8
+0002F	057D	b	s	0	Enemy Type
+00030	0587	b	u	0	Enemy Coord X
+00031	059B	b	u	0	Enemy Coord Y
+00032	0000	S	S	0	Enemy 9
+00033	057E	b	s	0	Enemy Type
+00034	0588	b	u	0	Enemy Coord X
+00035	059C	b	u	0	Enemy Coord Y
+00036	0000	S	S	0	Enemy 10
+00037	057F	b	s	0	Enemy Type
+00038	0589	b	u	0	Enemy Coord X
+00039	059D	b	u	0	Enemy Coord Y
+0003A	0000	S	S	0	Bomb 1
+0003B	0431	b	s	0	Explosion Anim.
+0003C	0435	b	s	0	Explosion Anim. 2
+0003D	03A0	b	s	0	Bomb Boolean
+0003E	03AA	b	s	0	Bomb Coord X
+0003F	03B4	b	s	0	Bomb Coord Y
+00040	0000	S	S	0	Bomb 2
+00041	03A1	b	s	0	Bomb Boolean
+00042	03AB	b	s	0	Bomb Coord X
+00043	03B5	b	s	0	Bomb Coord Y
+00044	0000	S	S	0	Bomba 3
+00045	03A2	b	s	0	Bomb Boolean
+00046	03AC	b	s	0	Bomb Coord X
+00047	03B6	b	s	0	Bomb Coord Y
+00048	0000	S	S	0	Bomba 4
+00049	03A3	b	s	0	Bomb Boolean
+0004A	03AD	b	s	0	Bomb Coord X
+0004B	03B7	b	s	0	Bomb Coord Y
+0004C	0000	S	S	0	Bomba 5
+0004D	03A4	b	s	0	Bomb Boolean
+0004E	03AE	b	s	0	Bomb Coord X
+0004F	03B8	b	s	0	Bomb Coord Y
+00050	0000	S	S	0	Bomba 6
+00051	03A5	b	s	0	Bomb Boolean
+00052	03AF	b	s	0	Bomb Coord X
+00053	03B9	b	s	0	Bomb Coord Y
+00054	0000	S	S	0	Bomba 7
+00055	03A6	b	s	0	Bomb Boolean
+00056	03B0	b	s	0	Bomb Coord X
+00057	03BA	b	s	0	Bomb Coord Y
+00058	0000	S	S	0	Bomba 8
+00059	03A7	b	s	0	Bomb Boolean
+0005A	03B1	b	s	0	Bomb Coord X
+0005B	03BB	b	s	0	Bomb Coord Y
+0005C	0000	S	S	0	Bomba 9
+0005D	03A8	b	s	0	Bomb Boolean
+0005E	03B2	b	s	0	Bomb Coord X
+0005F	03BC	b	s	0	Bomb Coord Y
+00060	0000	S	S	0	Bomba 10
+00061	03A9	b	s	0	Bomb Boolean
+00062	03B3	b	s	0	Bomb Coord X
+00063	03BD	b	s	0	Bomb Coord Y
