@@ -2,9 +2,9 @@
 
 The idea of this project is to create an autonomous player to [Bomberman](https://en.wikipedia.org/wiki/Bomberman_(1983_video_game)). To make this I use Lua script to create an AI to play the game, using the [FCEUX](https://fceux.com/web/home.html) Emulator.
 
-The `bfs_bot_bomberman.lua` uses a breadth-first search to play the game.
+The `bfs_bot_bomberman_nes.lua` uses a breadth-first search to play the game.
 
-The `a_star_bot_bomberman.lua` uses a a* search to play the game.
+The `a_star_bot_bomberman_nes.lua` uses a a* search to play the game.
 
 The purpose of this project is show the a* method is better than the breasth-first search in this case. Using the FPS from the game to prove this.
 
@@ -38,8 +38,8 @@ Rename the file to 'Bomberman (U).nes'.
 
 ---
 
-Author: Gustavo Henrique Alves Rocha
-GitHub: https://github.com/GhusWes
+* Author: Gustavo Henrique Alves Rocha
+* GitHub: https://github.com/ghuswes
 
 ---
 
